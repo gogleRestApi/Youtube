@@ -1,0 +1,19 @@
+{
+  "name": "frontyoutube",
+  "version": "1.0.0",
+  "description": "lo bonito de youtube ",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "youtube"
+  ],
+  "author": "gin carlos",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
